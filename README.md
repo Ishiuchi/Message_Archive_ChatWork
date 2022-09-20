@@ -14,4 +14,4 @@
 ![message archive](https://user-images.githubusercontent.com/94417526/191037163-caed5a18-5a2b-41a4-86ca-f5a7a1f8813a.png)
 
 ● 月間レポート
-![bot](https://user-images.githubusercontent.com/94417526/191169564-f7f1efa2-8fee-490f-ac01-3a1ba3ce3f87.png)
+![monthly-report](https://user-images.githubusercontent.com/94417526/191170540-100d53fe-597e-4a30-beca-cc2435bdf733.png)
