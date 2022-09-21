@@ -13,5 +13,5 @@
 ● メッセージ保存スプレッドシート
 ![message archive](https://user-images.githubusercontent.com/94417526/191037163-caed5a18-5a2b-41a4-86ca-f5a7a1f8813a.png)
 
-● 月間レポート
+● 月間レポート<br>
 ![monthly-report](https://user-images.githubusercontent.com/94417526/191433645-696fe196-8fa9-42f4-8967-47730510f1ff.png)
