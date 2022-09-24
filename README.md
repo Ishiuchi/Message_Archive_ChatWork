@@ -1,7 +1,4 @@
 # Message_Archive_ChatWork
-### 1. [概要](https://github.com/Ishiuchi/Message_Archive_ChatWork#1-%E6%A6%82%E8%A6%81)
-### 2. [利用イメージ図](https://github.com/Ishiuchi/Message_Archive_ChatWork#2-%E5%88%A9%E7%94%A8%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E5%9B%B3)
-### 3. [利用手順](https://github.com/Ishiuchi/Message_Archive_ChatWork#3-%E5%88%A9%E7%94%A8%E6%89%8B%E9%A0%86)
 
 
 ## 1. 概要
@@ -23,3 +20,4 @@
 
 
 ## 3. 利用手順
+後日記載
