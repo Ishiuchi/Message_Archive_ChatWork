@@ -1,12 +1,15 @@
 # Message_Archive_ChatWork
-
+**1. 概要**<br>
+**2. 利用イメージ図**<br>
+**3. 利用方法**<br>
+**4. main.gsの説明**<br>
 
 ## 1. 概要
 ● Chatwork株式会社が提供するビジネスチャットツール「*Chatwork*」が、2022年10月から、直近40日以内に投稿されたメッセージしか閲覧できなくなる<br>（[公式サイトからのお知らせ](https://help.chatwork.com/hc/ja/articles/9319851372185-2022-09-06-%E3%83%95%E3%83%AA%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3-%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%81%AE%E5%88%A9%E7%94%A8%E4%B8%8A%E9%99%90%E6%95%B0%E6%92%A4%E5%BB%83%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B)はこちら）<br>
 ● 困ったので、メッセージを自動保存するプログラムをGASで記述<br>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/94417526/191033148-53c19bce-5c56-4f1c-ab29-40f58a7e8f32.png" title="Chatwork-help">
-</div
+</div>
 
 
 ## 2. 利用イメージ図
@@ -62,3 +65,5 @@ GASからチャットワークのAPIを簡単に利用することができる�
 「スクリプトID: **1nf253qsOnZ-RcdcFu1Y2v4pGwTuuDxN5EbuvKEZprBWg764tjwA5fLav**」<br>
 #### （7）メッセージ保存する対象のChatworkのルームID<br>
 後日記述<br>
+
+## 4. main.gsの説明
