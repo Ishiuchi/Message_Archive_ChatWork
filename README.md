@@ -42,4 +42,6 @@ https://www.google.com/intl/ja_jp/sheets/about/
 #### （4）本Repositoryで公開している[main.gs](https://github.com/Ishiuchi/Message_Archive_ChatWork/blob/main/main.gs)<br>
 #### （5）ChatworkアカウントのAPIトークン<br>
 #### （6）ChatWorkClient for Google Apps ScriptのスクリプトID<br>
+GASからチャットワークのAPIを簡単に利用することができるライブラリ「ChatWorkClient for Google Apps Script」が公開されている。<br>
+スクリプトID: 1nf253qsOnZ-RcdcFu1Y2v4pGwTuuDxN5EbuvKEZprBWg764tjwA5fLav
 #### （7）メッセージ保存する対象のChatworkのルームID<br>
