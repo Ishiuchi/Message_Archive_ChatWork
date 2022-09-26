@@ -36,7 +36,7 @@ https://www.google.com/intl/ja_jp/sheets/about/
 #### （2）スプレッドシートID<br>
 「スプレッドシートID」はスプレッドシートのファイルを識別するID、「シートID」はファイル内の個別のシートを識別するIDとなり、それぞれスプレッドシートのURLから確認できる。<br>
 スプレッドシートのURLは次のような形式となり、「スプレッドシートID」「シートID（今回は不要）」の箇所がそれぞれのIDとなる。<br>
-`https://docs.google.com/spreadsheets/d/スプレッドシートID/edit#gid=シートID`
+`https://docs.google.com/spreadsheets/d/スプレッドシートID/edit#gid=シートID`<br>
 （スプレッドシートIDは、文字・数字・およびいくつかの特殊文字を含む文字列となり、シートIDは数字の値）
 #### （3）スプレッドシートのシート名<br>
 後日記述<br>
