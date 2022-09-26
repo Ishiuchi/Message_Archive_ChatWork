@@ -36,23 +36,24 @@
 （1）メッセージ保存するためのスプレッドシート<br>
 （2）スプレッドシートID<br>
 （3）スプレッドシートのシート名<br>
-（4）本Repositoryで公開している[main.gs](https://github.com/Ishiuchi/Message_Archive_ChatWork/blob/main/main.gs)<br>
-（5）ChatworkアカウントのAPIトークン<br>
-（6）ChatWorkClient for Google Apps ScriptのスクリプトID<br>
-（7）メッセージ保存する対象のChatworkのルームID<br>
+（4）登録しているChatworkアカウントのAPIトークン<br>
+（5）ChatWorkClient for Google Apps ScriptのスクリプトID<br>
+（6）メッセージ保存する対象のChatworkのルームID<br>
+（7）本Repositoryで公開している「main.gs」<br>
 
 #### （1）メッセージ保存するためのスプレッドシート<br>
 Googleアカウントを持っていれば、無料で利用できる。以下のサイトにアクセスし、空白のスプレッドシートを作成する。<br>
 https://www.google.com/intl/ja_jp/sheets/about/
+
 #### （2）スプレッドシートID<br>
 スプレッドシートのURLは次のような形式であり、「スプレッドシートID」「シートID（今回は不要）」の箇所がそれぞれのIDとなる。<br>
 `https://docs.google.com/spreadsheets/d/スプレッドシートID/edit#gid=シートID`<br>
 （スプレッドシートIDは、文字・数字・およびいくつかの特殊文字を含む文字列となり、シートIDは数字の値）
+
 #### （3）スプレッドシートのシート名<br>
 後日記述<br>
-#### （4）本Repositoryで公開している[main.gs](https://github.com/Ishiuchi/Message_Archive_ChatWork/blob/main/main.gs)<br>
-後日記述<br>
-#### （5）ChatworkアカウントのAPIトークン<br>
+
+#### （4）登録しているChatworkアカウントのAPIトークン<br>
 1. Chatwork画面の右上にある [利用者名] 以下のメニュー内にある [サービス連携] から、[APIトークン発行ページ](https://www.chatwork.com/service/packages/chatwork/subpackages/api/token.php)にアクセス<br>
 2. APIトークンが表示されるので、「コピー」ボタンでコピー<br>
 （詳細を知りたい方は、[公式サイトのAPI設定](https://help.chatwork.com/hc/ja/sections/115000051162-API%E8%A8%AD%E5%AE%9A)を参照）
@@ -60,10 +61,15 @@ https://www.google.com/intl/ja_jp/sheets/about/
 <img src="https://user-images.githubusercontent.com/94417526/192207952-f6e84d80-2db1-47b1-8a3e-ec7195119055.png" title="Token-Copy">
 </div>
 
-#### （6）ChatWorkClient for Google Apps ScriptのスクリプトID<br>
+#### （5）ChatWorkClient for Google Apps ScriptのスクリプトID<br>
 GASからチャットワークのAPIを簡単に利用することができるライブラリ「ChatWorkClient for Google Apps Script」が公開されている。<br>
 「スクリプトID: **1nf253qsOnZ-RcdcFu1Y2v4pGwTuuDxN5EbuvKEZprBWg764tjwA5fLav**」<br>
-#### （7）メッセージ保存する対象のChatworkのルームID<br>
+
+#### （6）メッセージ保存する対象のChatworkのルームID<br>
+後日記述<br>
+
+#### （7）本Repositoryで公開している「main.gs」<br>
 後日記述<br>
 
 ## 4. main.gsの説明
+後日記述<br>
