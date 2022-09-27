@@ -42,16 +42,16 @@
 （7）本Repositoryで公開している「main.gs」<br>
 
 #### （1）メッセージ保存するためのスプレッドシート<br>
-Googleアカウントを持っていれば、無料で利用できる。以下のサイトにアクセスし、空白のスプレッドシートを作成する。<br>
-https://www.google.com/intl/ja_jp/sheets/about/
+　　Googleアカウントを持っていれば、無料で利用できる。以下のサイトにアクセスし、空白のスプレッドシートを作成する。（A~C列使うので、お好みで装飾してください。）<br>
+　　https://www.google.com/intl/ja_jp/sheets/about/
 
 #### （2）スプレッドシートID<br>
-スプレッドシートのURLは次のような形式であり、「スプレッドシートID」「シートID（今回は不要）」の箇所がそれぞれのIDとなる。<br>
-`https://docs.google.com/spreadsheets/d/スプレッドシートID/edit#gid=シートID`<br>
-（スプレッドシートIDは、文字・数字・およびいくつかの特殊文字を含む文字列となり、シートIDは数字の値）
+　　スプレッドシートのURLは次のような形式であり、「スプレッドシートID」「シートID（今回は不要）」の箇所がそれぞれのID。<br>
+　　`https://docs.google.com/spreadsheets/d/スプレッドシートID/edit#gid=シートID`<br>
+　　（スプレッドシートIDは、文字・数字・およびいくつかの特殊文字を含む文字列となり、シートIDは数字の値）
 
 #### （3）スプレッドシートのシート名<br>
-自由に設定してください
+　　自由に設定してください
 
 #### （4）登録しているChatworkアカウントのAPIトークン<br>
 1. Chatwork画面の右上にある [利用者名] 以下のメニュー内にある [サービス連携] から、[APIトークン発行ページ](https://www.chatwork.com/service/packages/chatwork/subpackages/api/token.php)にアクセス<br>
@@ -62,17 +62,18 @@ https://www.google.com/intl/ja_jp/sheets/about/
 </div>
 
 #### （5）ChatWorkClient for Google Apps ScriptのスクリプトID<br>
-1. GASのスクリプトエディタを開きます（開き方は[こちら](https://auto-worker.com/blog/?p=4607)）<br>
+1. GASのスクリプトエディタを開く（開き方は[こちら](https://auto-worker.com/blog/?p=4607)）<br>
 2. チャットワークのAPIを簡単に利用することができるライブラリ「ChatWorkClient for Google Apps Script」を、追加する。<br>
 「スクリプトID: **1nf253qsOnZ-RcdcFu1Y2v4pGwTuuDxN5EbuvKEZprBWg764tjwA5fLav**」<br>
 （ライブラリの追加方法は、[こちら](https://tonari-it.com/gas-library/)）
 
 #### （6）メッセージ保存する対象のChatworkのルームID<br>
-ルームIDはグループチャットURL末尾の数字と同様の番号。以下の「********* 」の箇所<br>
-`https://www.chatwork.com/#!rid*********` <br>
+　　ルームIDはグループチャットURL末尾の数字と同様の番号。以下の「********* 」の箇所。<br>
+　　`https://www.chatwork.com/#!rid*********` <br>
 
 #### （7）本Repositoryで公開している「main.gs」<br>
-後日記述<br>
+　　[main.js](https://github.com/Ishiuchi/Message_Archive_ChatWork/blob/main/main.gs)をコピーして、GASのスクリプトエディタに張り付ける。<br>
+　　書き換える必要のある箇所は、4節で説明。<br>
 
 ## 4. main.gsの説明
 後日記述<br>
